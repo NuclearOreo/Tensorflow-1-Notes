@@ -14,4 +14,5 @@ jupyter
 matplotlib
 numpy
 pandas
+sklearn
 ```
