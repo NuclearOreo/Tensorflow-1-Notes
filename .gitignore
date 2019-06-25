@@ -2,3 +2,4 @@
 .ipynb_checkpoints
 MNIST_data
 cifar-10-batches-py
+word2vec_data
