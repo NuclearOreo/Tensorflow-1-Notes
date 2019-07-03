@@ -15,4 +15,5 @@ matplotlib
 numpy
 pandas
 sklearn
+gym
 ```
