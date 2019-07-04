@@ -16,3 +16,5 @@ for t in range(1000):
         action = 0
     
     observation, reward, done, info = env.step(action)
+
+env.close()
